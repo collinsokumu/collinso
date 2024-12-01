@@ -1,0 +1,33 @@
+ <!-- Contact -->
+    <section class="contact" id="contact">
+        <div class="contact-box">
+            <h2>Contact Me</h2>
+            <div class="contact-content">
+                <div class="contact-left">
+                    <ul>
+                        <li><i class="bx bx-phone"></i> +254 798610537</li>
+                        <li><i class="bx bx-envelope"></i> <a href="mailto:oduorcalvine22@gmail.com">oduorcalvine22@gmail.com</a></li>
+                        <li><i class="bx bx-map"></i> The Kisumu National Polytechnic College, Kisumu City</li>
+                    </ul>
+                </div>
+                <div class="contact-right">
+                    <form action="submit_form.php" method="POST">
+                        <input type="text" placeholder="Your Name" required>
+                        <input type="email" placeholder="Your Email" required>
+                        <textarea placeholder="Your Message" required></textarea>
+                        <button type="submit" class="btn">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="contact-icons">
+            <a href="https://www.geeksforgeeks.org/" target="_blank"><i class='bx bxl-linkedin' ></i></a>
+            <a href="https://www.geeksforgeeks.org/" target="_blank"><i class='bx bxl-instagram' ></i></a>
+            <a href="https://www.geeksforgeeks.org/" target="_blank"><i class='bx bxl-github' ></i></a>
+            <a title="+254798610537"><i class='bx bxl-whatsapp' ></i></a>
+
+        </div>
+    </section>
+
+</body>
+</html>
